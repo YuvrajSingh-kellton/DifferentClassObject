@@ -1,0 +1,15 @@
+D:\C# Programs\DifferentClassObject\bin\Debug\net6.0\DifferentClassObject.exe
+D:\C# Programs\DifferentClassObject\bin\Debug\net6.0\DifferentClassObject.deps.json
+D:\C# Programs\DifferentClassObject\bin\Debug\net6.0\DifferentClassObject.runtimeconfig.json
+D:\C# Programs\DifferentClassObject\bin\Debug\net6.0\DifferentClassObject.dll
+D:\C# Programs\DifferentClassObject\bin\Debug\net6.0\DifferentClassObject.pdb
+D:\C# Programs\DifferentClassObject\obj\Debug\net6.0\DifferentClassObject.csproj.AssemblyReference.cache
+D:\C# Programs\DifferentClassObject\obj\Debug\net6.0\DifferentClassObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programs\DifferentClassObject\obj\Debug\net6.0\DifferentClassObject.AssemblyInfoInputs.cache
+D:\C# Programs\DifferentClassObject\obj\Debug\net6.0\DifferentClassObject.AssemblyInfo.cs
+D:\C# Programs\DifferentClassObject\obj\Debug\net6.0\DifferentClassObject.csproj.CoreCompileInputs.cache
+D:\C# Programs\DifferentClassObject\obj\Debug\net6.0\DifferentClassObject.dll
+D:\C# Programs\DifferentClassObject\obj\Debug\net6.0\refint\DifferentClassObject.dll
+D:\C# Programs\DifferentClassObject\obj\Debug\net6.0\DifferentClassObject.pdb
+D:\C# Programs\DifferentClassObject\obj\Debug\net6.0\DifferentClassObject.genruntimeconfig.cache
+D:\C# Programs\DifferentClassObject\obj\Debug\net6.0\ref\DifferentClassObject.dll
